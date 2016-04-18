@@ -31,7 +31,7 @@ public class suma{
 		
 		//Imprimimos resultado
 		
-		System.out.println("La suma de "+numero1+ " + " +numero2+ "es de "+suma+);
+		System.out.println("La suma de "+ numero1 +" y "+ numero2 +" da como resultado "+ suma); 	// " + " + numero2 + "es de "+ suma +);
 		
 		
 		} // fin del método main
